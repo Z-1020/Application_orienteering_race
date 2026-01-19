@@ -2,7 +2,7 @@
 
 ## Présentation du projet
 **Application Orienteering Race** est un **projet de groupe réalisé par 8 personnes**.  
-Cette application web permet de **gérer des courses d’orientation** (création, organisation et suivi des courses).
+Cette application web permet de **gérer des courses d’orientation** (création, organisation et suivi des courses). Elle a été développée en utilisant le framework Laravel.
 
 Le projet a été **développé en une semaine** dans un cadre pédagogique.
 
